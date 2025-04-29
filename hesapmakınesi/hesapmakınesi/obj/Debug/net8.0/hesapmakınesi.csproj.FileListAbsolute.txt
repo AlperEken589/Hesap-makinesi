@@ -1,0 +1,14 @@
+C:\Users\Asus\source\repos\hesapmakınesi\hesapmakınesi\bin\Debug\net8.0\hesapmakınesi.exe
+C:\Users\Asus\source\repos\hesapmakınesi\hesapmakınesi\bin\Debug\net8.0\hesapmakınesi.deps.json
+C:\Users\Asus\source\repos\hesapmakınesi\hesapmakınesi\bin\Debug\net8.0\hesapmakınesi.runtimeconfig.json
+C:\Users\Asus\source\repos\hesapmakınesi\hesapmakınesi\bin\Debug\net8.0\hesapmakınesi.dll
+C:\Users\Asus\source\repos\hesapmakınesi\hesapmakınesi\bin\Debug\net8.0\hesapmakınesi.pdb
+C:\Users\Asus\source\repos\hesapmakınesi\hesapmakınesi\obj\Debug\net8.0\hesapmakınesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\hesapmakınesi\hesapmakınesi\obj\Debug\net8.0\hesapmakınesi.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\hesapmakınesi\hesapmakınesi\obj\Debug\net8.0\hesapmakınesi.AssemblyInfo.cs
+C:\Users\Asus\source\repos\hesapmakınesi\hesapmakınesi\obj\Debug\net8.0\hesapmakınesi.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\hesapmakınesi\hesapmakınesi\obj\Debug\net8.0\hesapmakınesi.dll
+C:\Users\Asus\source\repos\hesapmakınesi\hesapmakınesi\obj\Debug\net8.0\refint\hesapmakınesi.dll
+C:\Users\Asus\source\repos\hesapmakınesi\hesapmakınesi\obj\Debug\net8.0\hesapmakınesi.pdb
+C:\Users\Asus\source\repos\hesapmakınesi\hesapmakınesi\obj\Debug\net8.0\hesapmakınesi.genruntimeconfig.cache
+C:\Users\Asus\source\repos\hesapmakınesi\hesapmakınesi\obj\Debug\net8.0\ref\hesapmakınesi.dll
